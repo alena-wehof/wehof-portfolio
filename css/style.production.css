@@ -38,6 +38,26 @@ h3 {
     font-weight: 700;
 }
 
+table {
+    border: 1px solid #18635f;
+}
+
+th {
+    border: 1px solid #18635f;
+}
+
+td {
+    border: 1px solid #18635f;
+}
+
+table {
+    border-spacing: 0;
+}
+
+th, td {
+    padding: 5px;
+}
+
 a{
     color: #6242b3;
     -webkit-transition: -webkit-text-decoration 0.3s;
