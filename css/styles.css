@@ -51,6 +51,11 @@ th, td {
     padding: 5px;
 }
 
+.container {
+    display: flex;
+    justify-content: center;
+}
+
 a{
     color: var(--primary-color);
     transition: text-decoration 0.3s;
